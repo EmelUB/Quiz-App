@@ -1,25 +1,23 @@
 ![Alt Text](quiz-app.gif)
-# E-Ticaret Sitesi
 
-Bu Django tabanlı e-ticaret sitesi, kullanıcıların giriş yapmasını, ürün eklemesini ve arama yaparak ürünleri listelemesini sağlar. Bootstrap kullanılarak geliştirilmiştir.
+
+# JavaScript Quiz Uygulaması
+
+Bu basit quiz uygulaması, HTML, CSS ve JavaScript kullanılarak oluşturulmuştur. Kullanıcılar, belirli bir konu veya genel kültür üzerine soruları cevaplayarak bilgilerini test edebilirler.
 
 ## Özellikler
 
-1. **Giriş Yapma:**
-   - Kullanıcılar, kullanıcı adı ve şifreleriyle sisteme giriş yapabilirler.
+1. **Soru Sorabilme:**
+   - Kullanıcılar, quiz uygulamasında çeşitli konulardan soruları cevaplayabilirler.
 
-2. **Ürün Ekleme:**
-   - Giriş yapan kullanıcılar, ürün bilgilerini ekleyerek mağazaya ürün ekleyebilirler.
+2. **Anlık Geri Bildirim:**
+   - Kullanıcılar, her sorunun doğru mu yoksa yanlış mı olduğunu hemen görebilirler.
 
-3. **Arama Yapma:**
-   - Ana sayfada bulunan arama çubuğuna kelime yazarak, ilgili ürünleri listeleyebilirler.
+3. **Sonuç Sayfası:**
+   - Kullanıcılar, quiz sona erdikten sonra toplam doğru ve yanlış cevap sayılarını görüntüleyebilirler.
 
-4. **Ürünleri Listeleyebilme:**
-   - Arama sonuçları ve mağazadaki tüm ürünler, sayfa üzerinde liste halinde gösterilir.
+## Kullanılan Teknolojiler
 
-5. **Kullanıcı Çıkışı:**
-   - Kullanıcılar, hesaplarından çıkış yapabilirler.
-
-## Teknolojiler
-
-- Django
+- HTML
+- CSS
+- JavaScript
